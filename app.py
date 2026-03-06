@@ -4,7 +4,7 @@ def main():
     print("Welcome to the Student Portal System")  # updated message
 
 def login(username):
-    print(f"User {username} has successfully logged in.")  # login function added
+    print(f"Hello {username}, welcome back to the Student Portal!")
 
 if __name__ == "__main__":
     main()
